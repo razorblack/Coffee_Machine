@@ -1,0 +1,33 @@
+type: code
+files:
+- name: src/Main.java
+  visible: true
+  text: |-
+    import java.util.Scanner;
+
+    class Main {
+        public static void main(String[] args) {
+            Scanner scanner = new Scanner(System.in);
+            // put your code here
+        }
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/2221
+status: Solved
+feedback:
+  message: |-
+    Failed test #2 of 20. Wrong answer
+
+    This is a sample test from the problem statement!
+
+    Test input:
+    20
+    7
+    3
+    Correct output:
+    5
+
+    Your code output:
+    4
+  time: Mon, 29 Jun 2020 08:16:10 UTC
+record: -1
